@@ -1,4 +1,4 @@
 #!/bin/sh
 export PYTHONPATH=../../heliumlib
-python nike.py
+python ebay.py
 read -p "Press Enter to continue..." prompt
